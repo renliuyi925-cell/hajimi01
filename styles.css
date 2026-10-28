@@ -14,6 +14,7 @@
 .orb-three{background:#c7e7ffaa}
 .marquee{background:var(--acid);border-color:var(--ink)}
 .image-skin{background:radial-gradient(ellipse at 62% 52%,#b9ddff 0 11%,transparent 12%),radial-gradient(ellipse at 49% 48%,#5d9bd7 0 25%,transparent 26%),linear-gradient(130deg,#b8d5ef,#386a9d 48%,#102a4a)}
+.image-skin{background-image:url('assets/cover-01.png');background-position:center 24%;background-size:cover;background-repeat:no-repeat}
 .image-skin:after{background:radial-gradient(ellipse,#72b8ed,transparent 64%)}
 .image-moon{background:radial-gradient(circle at 50% 39%,#d9efff 0 9%,#8fb6d8 10%,transparent 24%),linear-gradient(180deg,#10284d,#477da9 58%,#8dbfe6)}
 .image-moon:after{background:linear-gradient(160deg,transparent 30%,#8ec8f3 31% 43%,transparent 44%)}
