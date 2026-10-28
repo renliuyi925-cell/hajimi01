@@ -27,3 +27,6 @@
 .approach .eyebrow{color:#9dc2e8}
 .about h2 em{color:#4e96d8}
 .footer p,.socials a,.project-meta p,.project-meta>span{color:#6f86a3}
+.hero-visual{background-image:linear-gradient(180deg,rgba(9,38,75,.04),rgba(9,38,75,.12)),url('assets/cover-01.png');background-position:center 27%;background-size:cover;background-repeat:no-repeat}
+.hero-visual:before{background:linear-gradient(135deg,transparent 20%,rgba(255,255,255,.14),transparent 60%)}
+.hero-visual .orb{display:none}
